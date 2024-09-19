@@ -1,0 +1,61 @@
+.colcolator{
+  text-align: center;
+  color: rgb(76, 148, 123);
+  border: 0.1rem solid black;
+  width: 32rem;
+  height: 17rem;
+  border-radius: 0.5rem;
+  background-color: #cc4646;
+  background: linear-gradient(45deg, #EECFBA, #C5DDE8);
+}
+.num1{
+  width: 8rem;
+  height: 2rem;
+  background: linear-gradient(45deg, #ff6600, #00aeff);
+  border-color: #f776a7;
+  border-radius: 0.5rem;
+
+}
+.num2{
+  width: 8rem;
+  height: 2rem;
+  background: linear-gradient(45deg, #00aeff, #ff6600);
+  border-color: #f776a7;
+  border-radius: 0.5rem;
+}
+.btnplus{
+  width: 4rem;
+  height: 2rem;
+  border-color: #f776a7;
+  border-radius: 0.5rem;
+  background-color: #aaf892;
+}
+.btnminus{
+  width: 4rem;
+  height: 2rem;
+  border-color: #f776a7;
+  border-radius: 0.5rem;
+  background-color: #aaf892;
+} 
+.btnymn{
+  width: 4rem;
+  height: 2rem;
+  border-color: #f776a7;
+  border-radius: 0.5rem;
+  background-color: #aaf892;
+}
+.btndelit{
+  width: 4rem;
+  height: 2rem;
+  border-color: #f776a7;
+  border-radius: 0.5rem;
+  background-color: #aaf892;
+}
+.btnsum{
+  width: 7rem;
+  height: 2rem;
+  border-color: #f776a7;
+  border-radius: 0.5rem;
+  background-color: #aaf892;
+}
+
